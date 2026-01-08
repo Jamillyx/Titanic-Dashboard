@@ -11,8 +11,8 @@ Chart.defaults.scales = {
 }
 
 
-const classes = {{classes}}
-const countByClass = {{count_by_class}}
+const classes={{classes|safe}}
+const countByClass = {{count_by_class|safe}}
 
 const top10 = {{top_10_fares|safe}}
 const topNames = top10.map(r => r.Name.split(',')[0])

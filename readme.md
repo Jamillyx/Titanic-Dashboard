@@ -65,3 +65,9 @@ def index(request):
 ## Commit 86448e0
 
 - Completar o código em dashboard/views.py para enviar todo o contexto com dados extraídos do bando de dados.
+
+- para rodar o projeto:
+- Set-ExecutionPolicy RemoteSigned -Scope Process (dá permissão)
+- . env/Scripts/activate   (ativa o ambiente virtual)
+- python manage.py runserver   (ativa o servidor)
+- "C:\Users\jamil\projeto titanic\titanic-dashboard-django" (caminho para o projeto)
