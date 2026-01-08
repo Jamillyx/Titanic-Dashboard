@@ -1,5 +1,5 @@
-#Projeto Titanic
-##Linguagen:
+# Projeto Titanic
+## Linguagen:
 Phython, CSS, Java Script
-##Framwork:
+## Framwork:
 Django
