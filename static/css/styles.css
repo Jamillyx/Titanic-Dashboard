@@ -1,0 +1,33 @@
+body {
+    background-color: #212529 !important;
+    color: #f8f9fa !important;
+}
+
+.card {
+    color: #adb5bd;
+}
+
+.card-custom {
+    background-color: #292d32;
+    border: none;
+    border-radius: 1.5rem;
+    box-shadow: 0 0.5rem 1rem rgba(30,40,50,0.2);
+}
+
+.kpi-title {
+    font-size: 0.85rem;
+    color: #adb5bd;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: .5rem;
+}
+
+.kpi-value {
+    font-size: 2.25rem;
+    font-weight: 600;
+    color: #adb5bd;
+}
+
+.chart-box {
+    min-height: 23rem;
+}
